@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ravindurathnayaka.github.io/sitemap.xml
+Host: https://ravindurathnayaka.github.io
